@@ -19,3 +19,17 @@ Based on various meteorological surveys and people's styles, the service provide
 
 # Business Goal:
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+
+# Execution Steps
+1.Reading and Understanding Data
+2.Visualising the Data
+3.Data Preparation
+4.Splitting the Data into Training and Testing Sets
+5.Feature Scaling
+6.Building the Model with all the features
+7.Model Evaluation
+8.Building Model using Feature Selection Technique(RFE)
+9.Model Evaluation
+10.Residual Analysis of the train data
+11.Making predictions using final model
+
